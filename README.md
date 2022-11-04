@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Khazaxa
+- 👋 Hi, I’m @Khazaxa, Polish IT student (WSEI Cracow)
 - 👀 I’m interested in programming, calisthenics, workout, gym, and music.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning TypeScript and C#.
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me email: korbanj1108@gmail.com
 
