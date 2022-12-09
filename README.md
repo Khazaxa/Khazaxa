@@ -42,4 +42,4 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
 
 
 
-<img src="https://en.wsei.edu.pl/wp-content/uploads//2019/03/wsei-logo-svg-en.svg" alt="EnWseiLogo" width="300" height="290">
+<img src="https://en.wsei.edu.pl/wp-content/uploads//2019/03/wsei-logo-svg-en.svg" alt="EnWseiLogo" width="350" height="290">
