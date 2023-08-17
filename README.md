@@ -6,9 +6,9 @@
 
 - 👋 Hi, I’m @Khazaxa, Polish IT student (WSEI Cracow)
 - 👀 I’m interested in programming, calisthenics, gym, and music.
-- 🌱 I’m currently learning C# and .NET.
+- 🌱 I’m currently learning .NET, C#, SQL.
 - 💻 I'm highly motivated to learn new features and technologies.
-- 💞️ I'm looking for an Internship in .NET/C#.
+- 💞️ I'm looking for an Internship in .NET/C#/SQL.
 - 📫 How to reach me email: korbanj1108@gmail.com
 
 <!---
