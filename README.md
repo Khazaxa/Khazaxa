@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/fKhdIdD.png" width= 1080 height = 210>
+<img src="IMGS/Banner.png" width= 1080 height = 210>
 
 
 
