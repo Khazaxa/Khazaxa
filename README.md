@@ -10,6 +10,7 @@
 - 💻 I'm highly motivated to learn new features and technologies.
 - 💞️ I'm looking for an opportunity in .NET/C#/SQL/Java/SpringBoot.
 - 📫 How to reach me email: korbanj1108@gmail.com
+- <img src="IMGS/gitlab.svg" width= 20 height = 20> https://gitlab.com/Kobbe1108
 
 <!---
 Khazaxa/Khazaxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
