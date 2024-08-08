@@ -6,9 +6,9 @@
 
 - 👋 Hi, I’m @Kobbe, Polish IT student (WSEI Cracow)
 - 👀 I’m interested in programming, calisthenics, gym, and music.
-- 🌱 I’m currently learning .NET, C#, ASP.NET CORE, MSSQL, MySQL, Java, and Spring Boot.
+- 🌱 I’m currently learning .NET, C#, ASP.NET CORE, MSSQL, MySQL and Angular.
 - 💻 I'm highly motivated to learn new features and technologies.
-- 💞️ I'm looking for an opportunity in .NET/C#/SQL/Java/SpringBoot.
+- 💞️ I'm looking for an opportunity in .NET/C#/SQL/Angular.
 - 📫 How to reach me email: korbanj1108@gmail.com
 - <img src="IMGS/gitlab.svg" width= 20 height = 20> https://gitlab.com/Kobbe1108
 
