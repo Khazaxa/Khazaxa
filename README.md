@@ -39,4 +39,4 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-korban-developer/) 
 [![](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-025E8C?logo=MAIL?style=for-the-badge&logo=rest&logoColor=white)](mailto:korbanj1108@outlook.com)
 
-<img src="https://wsei.edu.pl/wp-content/uploads/2025/05/1200x628_WSEI_GRUPA-MERITO-1024x536.webp" alt="Wsei/Merito" width="100%" >
+<img src="https://wsei.edu.pl/wp-content/uploads/2025/05/1200x628_WSEI_GRUPA-MERITO-1024x536.webp" alt="Wsei/Merito" width="100%" height="350vh">
