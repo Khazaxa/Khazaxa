@@ -30,12 +30,13 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
 ![NUnit](https://img.shields.io/badge/NUnit-8A4182?style=for-the-badge&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-025E8C?style=for-the-badge&logo=rest&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khazaxa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="550" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khazaxa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" height="200"/>
 
 <p>
  🌐 Socials:
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-korban-developer/) 
+[![](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-025E8C?logo=MAIL?style=for-the-badge&logo=rest&logoColor=white)](mailto:korbanj1108@outlook.com)
 
 <img src="https://wsei.edu.pl/wp-content/uploads/2025/05/1200x628_WSEI_GRUPA-MERITO-1024x536.webp" alt="Wsei/Merito" width="100%" height="250">
