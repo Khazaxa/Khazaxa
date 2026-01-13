@@ -30,8 +30,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
 ![NUnit](https://img.shields.io/badge/NUnit-8A4182?style=for-the-badge&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-025E8C?style=for-the-badge&logo=rest&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khazaxa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
 <p>
  🌐 Socials:
 </p>
